@@ -31,7 +31,7 @@ isNumber("hello")
 ## FAQ
 
 <b> When should I use this powerful tool? </b><br />
-When you don't know your argument is a number.
+When you don't know if your argument is a number.
 
 ## Maintainers
 
