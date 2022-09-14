@@ -1,0 +1,22 @@
+{
+  "name": "@millie-wy/is-number",
+  "version": "1.0.1",
+  "description": "Is the argument a number?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millie-wy/is-number.git"
+  },
+  "keywords": [
+    "number"
+  ],
+  "author": "Millie Cheung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millie-wy/is-number/issues"
+  },
+  "homepage": "https://github.com/millie-wy/is-number#readme"
+}
